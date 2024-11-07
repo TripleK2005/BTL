@@ -1,0 +1,2 @@
+ID San Pham: 1, Ten: but, Nha San Xuat: thienlong
+ID San Pham: 2, Ten: giay, Nha San Xuat: haitien
